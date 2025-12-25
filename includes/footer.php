@@ -1,42 +1,39 @@
-<footer class="bg-dark text-light pt-5 pb-3 mt-5">
-  <div class="container">
-    <div class="row">
+      <footer class="wrapper footer-wrapper">
+         <div class="footer-top-wrapper">
+            <div class="container common-container four_content footer-top-container">
+               <ul>
+                  <li><a href="inner.php">Website Policies</a></li>
+                  <li><a href="inner.php">Help</a></li>
+                  <li><a href="inner.php">Contact Us</a></li>
+                  <li><a href="inner.php">Terms and Conditions </a></li>
+                  <li><a href="inner.php">Feedback</a></li>
+                  <li><a href="inner.php">Web Information Manager</a></li>
+                  <li><a href="inner.php">Visitor Analytics</a></li>
+                  <li><a href="inner.php">FAQ</a></li>
+                  <li><a href="inner.php">Disclaimer</a></li>
+               </ul>
+            </div>
+         </div>
+         <div class="footer-bottom-wrapper">
+            <div class="container common-container four_content footer-bottom-container">
+               <div class="footer-content clearfix">
+                  <div class="copyright-content"> Website Content Managed by <strong>Department Name, Ministry Name, </strong> <span>Designed, Developed and Hosted by <a target="_blank" title="NIC, External Link that opens in a new window" href="http://www.nic.in/"><strong>National Informatics Centre</strong></a><strong> ( NIC )</strong></span> </div>
+                  <div class="logo-cmf"> <a target="_blank" href="http://cmf.gov.in/" title="External link that opens in new tab"><img alt="cmf logo" src="assets/images/cmf-logo.png"></a> </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!--/.footer-wrapper-->
+      <script src="assets/js/jquery-2.1.1.min.js"></script>
+      <script src="assets/js/jquery-accessibleMegaMenu.js"></script>
+      <script src="assets/js/framework.js"></script>
+      <script src="assets/js/jquery.flexslider.js"></script>
+      <script src="assets/js/font-size.js"></script>
+      <script src="assets/js/swithcer.js"></script>
+      <script src="theme/js/ma5gallery.js"></script>
+      <script src="assets/js/megamenu.js"></script>
+      <script src="theme/js/easyResponsiveTabs.js"></script>
+      <script src="theme/js/custom.js"></script>
+   </body>
 
-      <!-- About -->
-      <div class="col-md-4 mb-4">
-        <h5 class="fw-bold">MyProject</h5>
-        <p class="small text-muted">
-          MyProject is a simple Core PHP application built using Bootstrap,
-          focusing on clean UI and performance.
-        </p>
-      </div>
-
-      <!-- Quick Links -->
-      <div class="col-md-4 mb-4">
-        <h5 class="fw-bold">Quick Links</h5>
-        <ul class="list-unstyled">
-          <li><a href="index.php?page=home" class="text-light text-decoration-none">Home</a></li>
-          <li><a href="index.php?page=about" class="text-light text-decoration-none">About</a></li>
-          <li><a href="index.php?page=services" class="text-light text-decoration-none">Services</a></li>
-          <li><a href="index.php?page=contact" class="text-light text-decoration-none">Contact</a></li>
-        </ul>
-      </div>
-
-      <!-- Contact -->
-      <div class="col-md-4 mb-4">
-        <h5 class="fw-bold">Contact Us</h5>
-        <p class="small mb-1">📍 Lucknow, India</p>
-        <p class="small mb-1">📞 +91 98765 43210</p>
-        <p class="small">✉️ info@myproject.com</p>
-      </div>
-
-    </div>
-
-    <hr class="border-secondary">
-
-    <!-- Bottom -->
-    <div class="text-center small text-muted">
-      © <?php echo date("Y"); ?> MyProject. All Rights Reserved.
-    </div>
-  </div>
-</footer>
+</html>
