@@ -1,0 +1,8 @@
+footer a:hover {
+  color: #0d6efd !important;
+  text-decoration: underline;
+}
+
+footer h5 {
+  margin-bottom: 15px;
+}
