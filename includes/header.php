@@ -6,10 +6,10 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <meta name="format-detection" content="telephone=no" />
-      <meta name="description" content="">
-      <meta name="author" content="">
-      <link rel="apple-touch-icon" href="assets/images/favicon/apple-touch-icon.png">
-      <link rel="icon" href="assets/images/favicon/favicon.png">
+      <meta name="description" content="Palaeontological Society of India">
+      <meta name="author" content="Palaeontological Society of India">
+      <link rel="apple-touch-icon" href="assets/images/logo/shardaMedal.gif">
+      <link rel="icon" href="assets/images/logo/shardaMedal.gif">
       <title>Palaeontological Society of India</title>
       <link href="assets/css/base.css" rel="stylesheet" media="all">
       <link href="assets/css/base-responsive.css" rel="stylesheet" media="all">

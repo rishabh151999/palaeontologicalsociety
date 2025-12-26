@@ -10,7 +10,7 @@
       <meta name="author" content="Palaeontological Society of India">
       <link rel="apple-touch-icon" href="assets/images/logo/shardaMedal.gif">
       <link rel="icon" href="assets/images/logo/shardaMedal.gif">
-      <title>Palaeontological Society of India | About Us</title>
+      <title>Palaeontological Society of India | Office Bearers</title>
       <link href="assets/css/base.css" rel="stylesheet" media="all">
       <link href="assets/css/base-responsive.css" rel="stylesheet" media="all">
       <link href="assets/css/grid.css" rel="stylesheet" media="all">
@@ -33,12 +33,6 @@
       
 
 <?php include ('includes/navbar.php') ?>
-
-      <section class="wrapper banner-wrapper">
-         <div id="flexSlider" class="flexslider">
-            <div class="inner-banner"><img src="theme/images/banner/inner-banner.jpg" alt="Inner Banner of Coal"></div>
-         </div>
-      </section>
       <div class="wrapper" id="skipCont"></div>
       <!--/#skipCont-->
       <section id="fontSize" class="wrapper body-wrapper ">
@@ -46,8 +40,8 @@
       <div class="breadcam-bg breadcam">
          <div class="container common-container four_content ">
             <ul>
-               <li><a href="home.html">Home </a></li>
-               <li><a href="#">Inner Page</a></li>
+               <li><a href="index.php">Home </a></li>
+               <li><a href="office-bearers.php">Office Bearers</a></li>
             </ul>
          </div>
       </div>

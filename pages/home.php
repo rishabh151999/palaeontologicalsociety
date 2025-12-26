@@ -2,14 +2,14 @@
          <h1 style="display: none">Banner</h1>
          <div id="flexSlider" class="flexslider">
             <ul class="slides">
-               <li><img src="theme/images/banner/slider-1.jpg" alt="home page slider1" title="Image 1 description"></li>
-               <li><img src="theme/images/banner/slider-1.jpg" alt="home page slider2" title="Image 2 description"></li>
-               <li> <img src="theme/images/banner/slider-1.jpg" alt="home page slider3" title="Image 3 description"></li>
-               <li> <img src="theme/images/banner/slider-1.jpg" alt="home page slide4" title="Image 4 description"></li>
-               <li> <img src="theme/images/banner/slider-1.jpg" alt="home page slider5" title="Image 5 description"></li>
-               <li> <img src="theme/images/banner/slider-1.jpg" alt="home page slider6" title="Image 6 description"></li>
-               <li> <img src="theme/images/banner/slider-1.jpg" alt="home page slider7" title="Image 7 description"></li>
-               <li> <img src="theme/images/banner/slider-1.jpg" alt="home page slider8" title="Image 8 description"></li>
+               <li><img src="assets/images/banner/0.jpg" alt="home page slider1" title="Image 1 description"></li>
+               <li><img src="assets/images/banner/1.jpg" alt="home page slider2" title="Image 2 description"></li>
+               <li> <img src="assets/images/banner/2.jpg" alt="home page slider3" title="Image 3 description"></li>
+               <li> <img src="assets/images/banner/3.jpg" alt="home page slide4" title="Image 4 description"></li>
+               <li> <img src="assets/images/banner/4.jpg" alt="home page slider5" title="Image 5 description"></li>
+               <li> <img src="assets/images/banner/5.jpg" alt="home page slider6" title="Image 6 description"></li>
+               <!-- <li> <img src="assets/images/banner/0.jpg" alt="home page slider7" title="Image 7 description"></li>
+               <li> <img src="assets/images/banner/0.jpg" alt="home page slider8" title="Image 8 description"></li> -->
             </ul>
          </div>
       </section>
@@ -17,7 +17,48 @@
       <!--/#skipCont-->
       <section id="fontSize" class="wrapper body-wrapper ">
          <h2 style="display: none;">Body</h2>
-         <div class="bg-wrapper top-bg-wrapper gray-bg padding-top-bott">
+         <div class="bg-wrapper top-bg-wrapper gray-bg">
+            <div class="container common-container four_content banner-container body-container top-body-container">               
+               <div class="banner-content-wrapper">
+                  <h2>Welcome to <span>The Palaeontological Society of India</span></h2>
+                  <p class="banner-title-tag-line">Welcome to The Palaeontological Society of India, Lucknow (U.P.), INDIA</p>
+                  
+                  <ul>
+                    <li style="list-style:disc;">The Society shall consist of Patrons, Honorary Fellows and Fellows.</li>
+                <li style="list-style:disc;">Patrons shall be men of learning and eminence and shall be duly elected by the Executive Council.</li>
+                <li style="list-style:disc;">Honorary Fellows shall be selected from among eminent scientists or other persons in India or abroad who have rendered service to the cause of the paleontology and allied branches of science, and shall be duly nominated by the Council.</li>
+                </ul>
+                  <!-- <p class="banner-content">The Society shall consist of Patrons, Honorary Fellows and Fellows.</p>
+                   <p class="banner-content">Patrons shall be men of learning and eminence and shall be duly elected by the Executive Council.</p>
+                   <p class="banner-content">Honorary Fellows shall be selected from among eminent scientists or other persons in India or abroad who have rendered service to the cause of the paleontology and allied branches of science, and shall be duly nominated by the Council.</p> -->
+                    <p class="banner-content"></p>
+                  <a href="#" title="Click here to know more about">Read more ></a>
+               </div>               
+               <div class="banner-right-wrapper">
+                  <div class="banner-box-wrapper">
+                     <div class="banner-box banner-box-1">
+                        <div class="banner-box-content">
+                           <h2>Publications</h2>
+                           <a href="#" title="External link that opens in new tab" target="_blank">
+                              <p>Sub-heading</p>
+                              <i class="fa fa-external-link"></i>                
+                           </a>
+                        </div>
+                     </div>
+                     <div class="banner-box banner-box-2">
+                        <div class="banner-box-content">
+                           <h2>External Link 2</h2>
+                           <a href="#" title="External link that opens in new tab" target="_blank">
+                              <p>Sub-heading</p>
+                              <i class="fa fa-external-link"> </i>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="wrapper home-banner padding-top-bott">
             <div class="container common-container four_content body-container top-body-container padding-top-bott2">
                <div class="minister clearfix">
                   <div class="minister-box clearfix">
@@ -55,7 +96,7 @@
                         <div class="page-tab-res clearfix">
                            <div id="parentHorizontalTab">
                               <ul class="resp-tabs-list hor_1">
-                                 <li><a href="#" id="tab-list-1"> Whats's New</a></li>
+                                 <li><a href="#" id="tab-list-1">News</a></li>
                                  <li><a href="#">Press Release</a></li>
                               </ul>
                               <div class="resp-tabs-container hor_1" >                           
@@ -105,7 +146,7 @@
                      </div>
                   </div>
                   <div class="left-col-2">
-                     <h2>Tenders</h2>
+                     <h2>Lectures</h2>
                      <p class="text-slide1 pause" onclick="changeClass1()"></p>
                      <div class="scroll-text-1 scroll-left">
                         <ul class="list">
@@ -123,63 +164,30 @@
                            </li>
                         </ul>
                      </div>
-                     <div class="view-footer"><a href="https://www.uxdt.nic.in/mpa/media/whats-new" title="Know More About Tenders"><span>View all Tenders ></span></a></div>
+                     <div class="view-footer"><a href="https://www.uxdt.nic.in/mpa/media/whats-new" title="Know More About Tenders"><span>View all ></span></a></div>
                   </div>
                </div>
             </div>
          </div>
-         <div class="wrapper home-banner">
-            <div class="container common-container four_content banner-container body-container top-body-container">               
-               <div class="banner-content-wrapper">
-                  <h2>Welcome to <span>Ministry/Department</span></h2>
-                  <p class="banner-title-tag-line">Welcome to the website of Ministry/Department, Government of India.</p>
-                  <p class="banner-content"> An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.
-                     An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.
-                  </p>
-                  <a href="#" title="Click here to know more about">Read more ></a>
-               </div>               
-               <div class="banner-right-wrapper">
-                  <div class="banner-box-wrapper">
-                     <div class="banner-box banner-box-1">
-                        <div class="banner-box-content">
-                           <h2>External Link 1</h2>
-                           <a href="#" title="External link that opens in new tab" target="_blank">
-                              <p>Sub-heading</p>
-                              <i class="fa fa-external-link"></i>                
-                           </a>
-                        </div>
-                     </div>
-                     <div class="banner-box banner-box-2">
-                        <div class="banner-box-content">
-                           <h2>External Link 2</h2>
-                           <a href="#" title="External link that opens in new tab" target="_blank">
-                              <p>Sub-heading</p>
-                              <i class="fa fa-external-link"> </i>
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+         
          <div class="wrapper home-btm-slider">
             <div class="container common-container four_content gallery-container">
                <div class="gallery-area clearfix">
                   <div class="gallery-heading">
-                     <h3>Photo Gallery</h3>
-                     <a class="bttn-more bttn-view" href="#" title="View all Photo Gallery"><span>View All</span></a> 
+                     <h3>Picture Gallery</h3>
+                     <a class="bttn-more bttn-view" href="picture-gallery.php" title="View all Photo Gallery"><span>View All</span></a> 
                   </div>
                   <div class="gallery-holder">
                      <div id="galleryCarousel" class="flexslider">
                         <ul class="slides">
-                           <li data-thumb="theme/images/crousal/1.jpg" data-thumb-alt="Slide 1">
-                              <img src="theme/images/crousal/1.jpg" alt="gallery2" title="Slide 1"/>
+                           <li data-thumb="assets/images/picturegallery/v1.jpg" data-thumb-alt="Slide 1">
+                              <img src="assets/images/picturegallery/v1.jpg" alt="gallery2" title="Slide 1"/>
                            </li>
-                           <li data-thumb="theme/images/crousal/1.jpg" data-thumb-alt="Slide 2">
-                              <img src="theme/images/crousal/1.jpg" alt="gallery1" title="Slide 2"/>
+                           <li data-thumb="assets/images/picturegallery/v2.jpg" data-thumb-alt="Slide 2">
+                              <img src="assets/images/picturegallery/v2.jpg" alt="gallery1" title="Slide 2"/>
                            </li>
-                           <li data-thumb="theme/images/crousal/1.jpg" data-thumb-alt="Slide 3">
-                              <img src="theme/images/crousal/1.jpg" alt="gallery3" title="Slide 3"/>
+                           <li data-thumb="assets/images/picturegallery/v3.jpg" data-thumb-alt="Slide 3">
+                              <img src="assets/images/picturegallery/v3.jpg" alt="gallery3" title="Slide 3"/>
                            </li>
                         </ul>
                      </div>
