@@ -2,7 +2,7 @@
 	color: #212020;
 	font-size: 100%;
 	font-weight: 400;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 }
 
 body {
@@ -241,7 +241,7 @@ ul#nav li a i.fa-home {
 }
 
 .gallery-area {
-	width: 68%;
+	width: 65%;
 	float: right;
 	position: relative;
 }
@@ -609,7 +609,7 @@ a.read-more:hover {
 }
 
 .minister .minister-sub1 .minister-image {
-	width: 45%;
+	width: 43%;
 	float: left;
 	display: inline-block;
 	padding-right: 10px;
@@ -2119,7 +2119,7 @@ em {
 /*--------------------------*/
 
 .gallery-right {
-	width: 31%;
+	width: 33%;
 	float: left;
 	height: auto;
 	margin: 0px 0;
@@ -3155,7 +3155,8 @@ p.banner-content {
 	position: relative;
 	height: 365px;
 	overflow: hidden;
-	background: #0a0909;
+	background: #fff;
+	border: 1px solid #000;
 }
 
 .video-wrapper>video {
@@ -3762,4 +3763,215 @@ h2.resp-accordion {
 
 .info-item a:hover {
   text-decoration: underline;
+}
+.scroll-lecture {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    height: 260px;
+    overflow: hidden;
+    animation: scrollUp 18s linear infinite;
+}
+
+.scroll-lecture:hover {
+    animation-play-state: paused;
+}
+
+.scroll-lecture li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 8px;
+    border-bottom: 1px solid #c7c7c7;
+}
+
+.list-content {
+    font-size: 14px;
+    color: #222;
+    width: 75%;
+}
+
+.view-pdf {
+    font-size: 13px;
+    padding: 4px 10px;
+    border: 1px solid #ce3330;
+    color: #ce3330;
+    text-decoration: none;
+    border-radius: 3px;
+    white-space: nowrap;
+}
+
+.view-pdf:hover {
+    background: #ce3330;
+    color: #fff;
+}
+
+@keyframes scrollUp {
+    0% { transform: translateY(100%); }
+    100% { transform: translateY(-100%); }
+}
+/* Gallery */
+.gallery-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.gallery-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  transition: 0.4s;
+}
+
+.gallery-card:hover img {
+  transform: scale(1.1);
+}
+
+.bottom-title {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(to top, rgba(0,0,0,0.75), transparent);
+  color: #fff;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Custom Modal */
+.custom-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.4s;
+  z-index: 9999;
+}
+
+.custom-modal.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.custom-modal img {
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 10px;
+}
+
+.custom-modal h4 {
+  color: #fff;
+  margin-top: 15px;
+  text-align: center;
+}
+
+/* Close Button */
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  font-size: 32px;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.section-common-spacing{
+	padding: 20px 0;
+}
+
+.team-section {
+  padding: 20px 0px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.accordion-box {
+  margin-bottom: 25px;
+}
+
+.accordion-header-custom {
+  background: #1d1f27;
+  color: #fff;
+  padding: 5px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.accordion-header-custom .icon {
+  font-size: 26px;
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+}
+
+.accordion-content.open {
+  max-height: 3000px;
+  margin-top: 20px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 25px;
+}
+
+.team-card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+
+.team-card:hover {
+  transform: translateY(-6px);
+}
+
+.team-card img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+
+.team-card h4 {
+  margin-bottom: 6px;
+}
+
+.team-card .role {
+  color: #ce3330;
+  font-weight: 600;
+}
+
+.team-card .location {
+  font-size: 14px;
+  color: #008443;
+}
+
+.team-card a {
+  font-size: 14px;
+  color: #333;
+  word-break: break-word;
 }

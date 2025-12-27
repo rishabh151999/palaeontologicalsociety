@@ -66,6 +66,7 @@
                                  style="display: none;">A</a> </li>
                         </ul>
                      </li>
+                     
                      <li class="ico-social cf">
                         <a href="javascript:void(0);" id="toggleSocial" title="Social Medias">
                            <img class="top" src="assets/images/ico-social.png" alt="Social Medias" /></a>
@@ -84,7 +85,7 @@
                      <li class="ico-sitemap cf"><a href="#" title="Sitemap">
                            <img class="top" src="assets/images/ico-sitemap.png" alt="Sitemap" /></a>
                      </li>
-                     <li class="hindi cmf_lan d-hide">
+                     <!-- <li class="hindi cmf_lan d-hide">
                         <label class="de-lag">
                            <span style="display: none;">Language</span>
                            <select title="Select Language">
@@ -99,7 +100,7 @@
                            <li><a target="_blank" href="#" lang="hi" class="alink"
                                  title="Click here for हिन्दी version.">हिन्दी</a></li>
                         </ul>
-                     </li>
+                     </li> -->
                   </ul>
                </div>
             </div>
@@ -190,14 +191,14 @@
                <li class="nav-item"><a>Members</a>
                   <div class="sub-nav">
                      <ul class="sub-nav-group">
-                        <li><a href="inner.php">List of Life Fellows</a></li>
-                        <li><a href="inner.php">Membership Form</a></li>
-                        <li><a href="inner.php">Membership Fee</a></li>
+                        <li><a href="assets/pdfs/membersList.pdf" target="_blank">List of Life Fellows</a></li>
+                        <li><a href="assets/pdfs/membership_form.pdf" target="_blank">Membership Form</a></li>
+                        <li><a href="membership-fee.php">Membership Fee</a></li>
                      </ul>
                   </div>
                </li>
 
-               <li class="nav-item"><a href="inner.php">Picture Gallery</a></li>
+               <li class="nav-item"><a href="picture-gallery.php">Picture Gallery</a></li>
 
                <li class="nav-item"><a href="contact-us.php">Contact Us</a></li>
 

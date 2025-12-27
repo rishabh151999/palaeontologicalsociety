@@ -34,11 +34,6 @@
 
 <?php include ('includes/navbar.php') ?>
 
-      <section class="wrapper banner-wrapper">
-         <div id="flexSlider" class="flexslider">
-            <div class="inner-banner"><img src="theme/images/banner/inner-banner.jpg" alt="Inner Banner of Coal"></div>
-         </div>
-      </section>
       <div class="wrapper" id="skipCont"></div>
       <!--/#skipCont-->
       <section id="fontSize" class="wrapper body-wrapper ">
@@ -46,7 +41,7 @@
       <div class="breadcam-bg breadcam">
          <div class="container common-container four_content ">
             <ul>
-               <li><a href="home.html">Home </a></li>
+               <li><a href="index.php">Home </a></li>
                <li><a href="#">Inner Page</a></li>
             </ul>
          </div>
@@ -171,19 +166,5 @@
             <hr />
          </div>
       </section>
-      <!--/.body-wrapper-->
-      <section class="wrapper carousel-wrapper">
-         <div class="container common-container four_content  carousel-container">
-            <div id="flexCarousel" class="flexslider carousel">
-               <ul class="slides">
-                  <li><a target="_blank" href="http://digitalindia.gov.in/" title="Digital India, External Link that opens in a new window"><img src="assets/images/carousel/digital-india.png" alt="Digital India"></a></li>
-                  <li><a target="_blank" href="http://www.makeinindia.com/" title="Make In India, External Link that opens in a new window"> <img src="assets/images/carousel/makeinindia.png" alt="Make In India"></a></li>
-                  <li><a target="_blank" href="http://india.gov.in/" title="National Portal of India, External Link that opens in a new window"><img src="assets/images/carousel/india-gov.png" alt="National Portal of India"></a></li>
-                  <li><a target="_blank" href="http://goidirectory.nic.in/" title="GOI Web Directory, External Link that opens in a new window"><img src="assets/images/carousel/goidirectory.png" alt="GOI Web Directory"></a></li>
-                  <li><a target="_blank" href="https://data.gov.in/" title="Data portal, External Link that opens in a new window" ><img src="assets/images/carousel/data-gov.png" alt="Data portal"></a></li>
-                  <li><a target="_blank" href="https://mygov.in/" title="MyGov, External Link that opens in a new window"><img src="assets/images/carousel/mygov.png" alt="MyGov Portal"></a></li>
-               </ul>
-            </div>
-         </div>
-      </section>
+
 <?php include ('includes/footer.php') ?>

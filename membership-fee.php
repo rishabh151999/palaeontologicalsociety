@@ -10,7 +10,7 @@
       <meta name="author" content="Palaeontological Society of India">
       <link rel="apple-touch-icon" href="assets/images/logo/shardaMedal.gif">
       <link rel="icon" href="assets/images/logo/shardaMedal.gif">
-      <title>Palaeontological Society of India | Founders of the Palaeontological Society</title>
+      <title>Palaeontological Society of India | Membership Fee</title>
       <link href="assets/css/base.css" rel="stylesheet" media="all">
       <link href="assets/css/base-responsive.css" rel="stylesheet" media="all">
       <link href="assets/css/grid.css" rel="stylesheet" media="all">
@@ -33,6 +33,7 @@
       
 
 <?php include ('includes/navbar.php') ?>
+
       <div class="wrapper" id="skipCont"></div>
       <!--/#skipCont-->
       <section id="fontSize" class="wrapper body-wrapper ">
@@ -41,66 +42,21 @@
          <div class="container common-container four_content ">
             <ul>
                <li><a href="index.php">Home </a></li>
-               <li><a >About Us </a></li>
-               <li><a href="founders.php">Founders of the Palaeontological Society</a></li>
+               <li><a href="membership-fee.php">Membership Fee</a></li>
             </ul>
          </div>
       </div>
-      <section class="founders-section">
-  <div class="container common-container">
-    <h2 class="section-title">Founders of the Palaeontological Society of India</h2>
-    <p class="section-subtitle">
-      Signatories to the Memorandum (Dated: 26th January, 1950)
-    </p>
+      <section id="page-head" class="wrapper headings-wrapper section-common-spacing">
+         <div class="container common-container">
+            <div class="row justify-content-center">
+                <div class="col-md-12" style="text-align:center;">
+                    <h2 class="section-title">Life membership fee is Rs. 8000/- <br> and admission fee Rs. 500/-</h2>
+                    <img src="assets/images/images1/upi_scan.jpg" alt="" class="img-fluid">
+                </div>
+            </div>
+         </div>
+      </section>
+      <!--/#page-head-->
 
-    <div class="founders-grid">
-
-      <div class="founder-card">
-        <img src="assets/images/images1/mrsahni.jpg" alt="Dr. M.R. Sahni">
-        <h4>Dr. M.R. Sahni</h4>
-        <p>Lucknow</p>
-      </div>
-
-      <div class="founder-card">
-        <img src="assets/images/images1/rajnathF.jpg" alt="Dr. Rajnath">
-        <h4>Dr. Rajnath</h4>
-        <p>Varanasi</p>
-      </div>
-
-      <div class="founder-card">
-        <img src="assets/images/images1/srnRao.jpg" alt="Mr. S.R. Narayan Rao">
-        <h4>Mr. S.R. Narayan Rao</h4>
-        <p>Lucknow</p>
-      </div>
-
-      <div class="founder-card">
-        <img src="assets/images/images1/rcmisraF.jpg" alt="Dr. R.C. Misra">
-        <h4>Dr. R.C. Misra</h4>
-        <p>Lucknow</p>
-      </div>
-
-      <div class="founder-card">
-        <img src="assets/images/images1/bs_tiwari.jpg" alt="Dr. B.S. Tewari">
-        <h4>Dr. B.S. Tewari</h4>
-        <p>Lucknow</p>
-      </div>
-
-      <div class="founder-card">
-        <img src="assets/images/images1/snsinghf.jpg" alt="Mr. S.N. Singh">
-        <h4>Mr. S.N. Singh</h4>
-        <p>Lucknow</p>
-      </div>
-
-      <div class="founder-card">
-        <img src="assets/images/images1/adF.jpg" alt="Mr. A.D. Kharakwal">
-        <h4>Mr. A.D. Kharakwal</h4>
-        <p>Lucknow</p>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-      
 
 <?php include ('includes/footer.php') ?>

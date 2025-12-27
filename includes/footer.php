@@ -3,13 +3,13 @@
       <div class="container common-container footer-top-container">
          <ul class="footer-links">
             <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About Us</a></li>
+            <li><a href="rules-and-regulations.php">About Us</a></li>
             <li><a href="office-bearers.php">Office Bearers</a></li>
-            <li><a href="publications.php">Publications</a></li>
+            <li><a href="journel.php">Publications</a></li>
             <li><a href="activities.php">Activities</a></li>
-            <li><a href="membership.php">Membership Form</a></li>
-            <li><a href="gallery.php">Picture Gallery</a></li>
-            <li><a href="contact.php">Contact Us</a></li>
+            <li><a href="assets/pdfs/membership_form.pdf" target="_blank">Membership Form</a></li>
+            <li><a href="picture-gallery.php">Picture Gallery</a></li>
+            <li><a href="contact-us.php">Contact Us</a></li>
          </ul>
       </div>
    </div>
