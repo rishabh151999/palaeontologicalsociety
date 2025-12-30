@@ -135,7 +135,7 @@
          <nav class="main-menu clearfix" id="main_menu" style="">
             <ul class="nav-menu">
                <li class="nav-item"> <a href="index.php" class="home"><i class="fa fa-home"></i></a> </li>
-               <li class="nav-item"> <a href="#"> About Us</a>
+               <li class="nav-item"> <a href=""> About Us</a>
                   <div class="sub-nav">
                      <ul class="sub-nav-group">
                         <li><a href="rules-and-regulations.php">Rules and Regulations of The Society</a></li>
@@ -145,7 +145,7 @@
                   </div>
                </li>
 
-               <li class="nav-item"> <a href="#">Publications</a>
+               <li class="nav-item"> <a href="">Publications</a>
                   <div class="sub-nav">
                      <ul class="sub-nav-group">
                         <li><a href="editorial-board-members.php">Editorial Board & Members</a></li>
@@ -161,7 +161,7 @@
                   </div>
                </li>
                <li class="nav-item"><a href="executive-council.php">Executive Council</a></li>
-               <li class="nav-item"><a> Lectures</a>
+               <li class="nav-item"><a href=""> Lectures</a>
                   <div class="sub-nav">
                      <ul class="sub-nav-group">
                         <li><a href="inner.php">M.R. Sahni Memorial</a></li>
@@ -171,7 +171,7 @@
                   </div>
                </li>
 
-               <li class="nav-item"><a>Awards & Medals</a>
+               <li class="nav-item"><a href="">Awards & Medals</a>
                   <div class="sub-nav">
                      <ul class="sub-nav-group">
                         <li><a href="inner.php">M. R. Sahni Gold Medal</a></li>
@@ -188,7 +188,7 @@
                   </div>
                </li>
 
-               <li class="nav-item"><a>Members</a>
+               <li class="nav-item"><a href="">Members</a>
                   <div class="sub-nav">
                      <ul class="sub-nav-group">
                         <li><a href="assets/pdfs/membersList.pdf" target="_blank">List of Life Fellows</a></li>

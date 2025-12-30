@@ -1,170 +1,172 @@
 <!DOCTYPE html>
 <html lang="en">
-   
+
 <head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-      <meta name="format-detection" content="telephone=no" />
-      <meta name="description" content="Palaeontological Society of India">
-      <meta name="author" content="Palaeontological Society of India">
-      <link rel="apple-touch-icon" href="assets/images/logo/shardaMedal.gif">
-      <link rel="icon" href="assets/images/logo/shardaMedal.gif">
-      <title>Palaeontological Society of India | Editorial Board & Members</title>
-      <link href="assets/css/base.css" rel="stylesheet" media="all">
-      <link href="assets/css/base-responsive.css" rel="stylesheet" media="all">
-      <link href="assets/css/grid.css" rel="stylesheet" media="all">
-      <link href="assets/css/font.css" rel="stylesheet" media="all">
-      <link href="assets/css/font-awesome.min.css" rel="stylesheet" media="all">
-      <link href="assets/css/flexslider.css" rel="stylesheet" media="all">
-      <link href="assets/css/megamenu.css" rel="stylesheet" media="all" />
-      <link href="assets/css/print.css" rel="stylesheet" media="print" />
-      <link href="assets/css/megamenu.css" rel="stylesheet" media="all" />
-      <link href="theme/css/site.css" rel="stylesheet" media="all">
-      <link href="theme/css/site-responsive.css" rel="stylesheet" media="all">
-      <link href="theme/css/ma5gallery.css" rel="stylesheet" type="text/css">
-      <link href="theme/css/print.css" rel="stylesheet" type="text/css" media="print">
-      <noscript>
-         <link href="theme/css/no-js.css" type="text/css" rel="stylesheet">
-      </noscript>
-   </head>
-   <body>
-      <div id="fb-root"></div>
-      
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+   <meta name="format-detection" content="telephone=no" />
+   <meta name="description" content="Palaeontological Society of India">
+   <meta name="author" content="Palaeontological Society of India">
+   <link rel="apple-touch-icon" href="assets/images/logo/shardaMedal.gif">
+   <link rel="icon" href="assets/images/logo/shardaMedal.gif">
+   <title>Palaeontological Society of India | Editorial Board & Members</title>
+   <link href="assets/css/base.css" rel="stylesheet" media="all">
+   <link href="assets/css/base-responsive.css" rel="stylesheet" media="all">
+   <link href="assets/css/grid.css" rel="stylesheet" media="all">
+   <link href="assets/css/font.css" rel="stylesheet" media="all">
+   <link href="assets/css/font-awesome.min.css" rel="stylesheet" media="all">
+   <link href="assets/css/flexslider.css" rel="stylesheet" media="all">
+   <link href="assets/css/megamenu.css" rel="stylesheet" media="all" />
+   <link href="assets/css/print.css" rel="stylesheet" media="print" />
+   <link href="assets/css/megamenu.css" rel="stylesheet" media="all" />
+   <link href="theme/css/site.css" rel="stylesheet" media="all">
+   <link href="theme/css/site-responsive.css" rel="stylesheet" media="all">
+   <link href="theme/css/ma5gallery.css" rel="stylesheet" type="text/css">
+   <link href="theme/css/print.css" rel="stylesheet" type="text/css" media="print">
+   <noscript>
+      <link href="theme/css/no-js.css" type="text/css" rel="stylesheet">
+   </noscript>
+</head>
 
-<?php include ('includes/navbar.php') ?>
-      <div class="wrapper" id="skipCont"></div>
-      <!--/#skipCont-->
-      <section id="fontSize" class="wrapper body-wrapper ">
+<body>
+   <div id="fb-root"></div>
+
+
+   <?php include('includes/navbar.php') ?>
+   <div class="wrapper" id="skipCont"></div>
+   <!--/#skipCont-->
+   <section id="fontSize" class="wrapper body-wrapper ">
       <div class="bg-wrapper inner-wrapper">
-      <div class="breadcam-bg breadcam">
-         <div class="container common-container four_content ">
-            <ul>
-               <li><a href="index.php">Home </a></li>
-               <li><a>Publications </a></li>
-               <li><a href="editorial-board-members.php">Editorial Board & Members</a></li>
-            </ul>
-         </div>
-      </div>
-      <section id="page-head" class="wrapper headings-wrapper">
-         <div class="container common-container four_content ">
-            <h1>H1.Heading Goes here</h1>
-            <h2>H2.Heading Goes here</h2>
-            <h3>H3.Heading Goes here</h3>
-            <h4>H4.Heading Goes here</h4>
-            <h5>H5.Heading Goes here</h5>
-            <h6>H6.Heading Goes here</h6>
-            <hr />
-         </div>
-      </section>
-      <!--/#page-head-->
-      <section id="paragraph" class="wrapper paragraph-wrapper">
-         <div class="container common-container four_content ">
-            <p>Description of the heading 1 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-            <p>Description of the heading 1 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-            <hr />
-            <div class="align-lt">
-               <img src="assets/images/paragraph-img/img1.jpg" alt="">
-               <h3>Heading 2 goes here...</h3>
-               <p>Description of the heading 2 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-               <p>Description of the heading 2 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-               <a href="#" class="more">View More</a> 
-            </div>
-            <hr />
-            <div class=" align-rt">
-               <img src="assets/images/paragraph-img/img1.jpg" alt="">
-               <h3>Heading 3 goes here...</h3>
-               <p>Description of the heading 3 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-               <p>Description of the heading 3 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-               <a href="#" class="more">View More</a> 
-            </div>
-            <hr />
-         </div>
-      </section>
-      <!--/#paragraph-->
-      <section id="list" class="wrapper list-wrapper">
-         <div class="container common-container four_content ">
-            <h3>Unordered List</h3>
-            <div class="list list-circle">
-               <h4>List 1</h4>
-               <ul class="clearfix">
-                  <li>List Item 1</li>
-                  <li>List Item 2</li>
-                  <li>List Item 3</li>
-                  <li>List Item 4</li>
+         <div class="breadcam-bg breadcam">
+            <div class="container common-container four_content ">
+               <ul>
+                  <li><a href="index.php">Home </a></li>
+                  <li><a>Publications </a></li>
+                  <li><a href="editorial-board-members.php">Editorial Board & Members</a></li>
                </ul>
             </div>
-            <hr />
-            <div class="list list-bullet">
-               <h4>List 2</h4>
-               <ul class="clearfix">
-                  <li>List Item 1</li>
-                  <li>List Item 2</li>
-                  <li>List Item 3</li>
-                  <li>List Item 4</li>
-               </ul>
-            </div>
-            <hr />
          </div>
-      </section>
-      <!--/#list-->
-      <!--/#article-->
-      <section id="tables" class="wrapper tables-wrapper">
-         <div class="container common-container four_content ">
-            <div class="scroller">
-               <table cellspacing="0" cellpadding="0">
-                  <tbody>
-                     <caption>Department Official</caption>
-                     <tr>
-                        <th align="center" valign="middle">Serial No.</th>
-                        <th align="left" valign="middle">NAME</th>
-                        <th align="left" valign="middle">DESIGNATION</th>
-                        <th align="left" valign="middle">TEL NO.(O)</th>
-                        <th align="left" valign="middle">TEL NO.(R)</th>
-                        <th align="left" valign="middle">Email Address</th>
-                        <th align="left" valign="middle">OFFICE ADDRESS</th>
-                     </tr>
-                     <tr>
-                        <td align="center" valign="middle">1</td>
-                        <td align="left" valign="middle">Shri xyz</td>
-                        <td align="left" valign="middle">Direction</td>
-                        <td align="left" valign="middle">12345678</td>
-                        <td align="left" valign="middle">87654321</td>
-                        <td align="left" valign="middle">abc@nic.in</td>
-                        <td align="left" valign="middle">New Delhi</td>
-                     </tr>
-                     <tr>
-                        <td align="center" valign="middle">2</td>
-                        <td align="left" valign="middle">Shri xyz</td>
-                        <td align="left" valign="middle">Direction</td>
-                        <td align="left" valign="middle">12345678</td>
-                        <td align="left" valign="middle">87654321</td>
-                        <td align="left" valign="middle">abc@nic.in</td>
-                        <td align="left" valign="middle">New Delhi</td>
-                     </tr>
-                     <tr>
-                        <td align="center" valign="middle">3</td>
-                        <td align="left" valign="middle">Shri xyz</td>
-                        <td align="left" valign="middle">Direction</td>
-                        <td align="left" valign="middle">12345678</td>
-                        <td align="left" valign="middle">87654321</td>
-                        <td align="left" valign="middle">abc@nic.in</td>
-                        <td align="left" valign="middle">New Delhi</td>
-                     </tr>
-                     <tr>
-                        <td align="center" valign="middle">4</td>
-                        <td align="left" valign="middle">Shri xyz</td>
-                        <td align="left" valign="middle">Direction</td>
-                        <td align="left" valign="middle">12345678</td>
-                        <td align="left" valign="middle">87654321</td>
-                        <td align="left" valign="middle">abc@nic.in</td>
-                        <td align="left" valign="middle">New Delhi</td>
-                     </tr>
-                  </tbody>
-               </table>
-            </div>
-            <hr />
-         </div>
-      </section>
+         <section class="team-section">
+  <div class="container common-container">
+    <h2 class="section-title">Editors & Members</h2>
 
-<?php include ('includes/footer.php') ?>
+    <!-- ================= EDITORS ================= -->
+    <div class="accordion-box">
+      <div class="accordion-header-custom active" onclick="toggleAccordion(this)">
+        <h3>Editors</h3>
+        <span class="icon">−</span>
+      </div>
+
+      <div class="accordion-content open">
+        <div class="team-grid">
+
+          <div class="team-card">
+            <img src="assets/images/images1/mukund.jpg" alt="Prof. Mukund Sharma">
+            <h4>Prof. Mukund Sharma</h4>
+            <p class="role">Editor</p>
+            <p class="location">Lucknow</p>
+            <a href="mailto:mukund_sharma@bsip.res.in">mukund_sharma@bsip.res.in</a>
+          </div>
+
+          <div class="team-card">
+            <img src="assets/images/images1/DrShyam.jpg" alt="Dr. Shyam Kishore">
+            <h4>Dr. Shyam Kishore</h4>
+            <p class="role">Editor</p>
+            <p class="location">Lucknow</p>
+            <a href="mailto:shyamk2001@rediffmail.com">shyamk2001@rediffmail.com</a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- ================= MEMBERS ================= -->
+    <div class="accordion-box">
+      <div class="accordion-header-custom" onclick="toggleAccordion(this)">
+        <h3>Members</h3>
+        <span class="icon">+</span>
+      </div>
+
+      <div class="accordion-content">
+        <div class="team-grid">
+
+          <div class="team-card">
+            <img src="assets/images/images1/dummy.webp" alt="Prof. D. M. Banerjee">
+            <h4>Prof. D. M. Banerjee</h4>
+            <p class="location">New Delhi</p>
+            <a href="mailto:dhirajmohanbanerjee@gmail.com">dhirajmohanbanerjee@gmail.com</a>
+          </div>
+
+          <div class="team-card">
+            <img src="assets/images/images1/dummy.webp" alt="Prof. Hema Achyuthan">
+            <h4>Prof. Hema Achyuthan</h4>
+            <p class="location">Chennai</p>
+            <a href="mailto:hachyuthan@yahoo.com">hachyuthan@yahoo.com</a>
+          </div>
+
+          <div class="team-card">
+            <img src="assets/images/images1/dummy.webp" alt="Prof. Pratul K. Saraswati">
+            <h4>Prof. Pratul K. Saraswati</h4>
+            <p class="location">Mumbai</p>
+            <a href="mailto:pratul@iitb.ac.in">pratul@iitb.ac.in</a>
+          </div>
+
+          <div class="team-card">
+            <img src="assets/images/images1/dummy.webp" alt="Dr. Marcelle BouDagher Fadel">
+            <h4>Dr. Marcelle BouDagher Fadel</h4>
+            <p class="location">London</p>
+            <a href="mailto:m.fadel@ucl.ac.uk">m.fadel@ucl.ac.uk</a>
+          </div>
+
+          <div class="team-card">
+            <img src="assets/images/images1/dummy.webp" alt="Prof. S. Bardhan">
+            <h4>Prof. S. Bardhan</h4>
+            <p class="location">Jadavpur</p>
+            <a href="mailto:s_bardhan01@yahoo.co.uk">s_bardhan01@yahoo.co.uk</a>
+          </div>
+
+          <div class="team-card">
+            <img src="assets/images/images1/dummy.webp" alt="Dr. M. E. Popa">
+            <h4>Dr. M. E. Popa</h4>
+            <p class="location">Bucharest</p>
+            <a href="mailto:m.e.popa@uu.nl">m.e.popa@uu.nl</a>
+          </div>
+
+          <div class="team-card">
+            <img src="assets/images/images1/dummy.webp" alt="Prof. A. D. Singh">
+            <h4>Prof. A. D. Singh</h4>
+            <p class="location">Varanasi</p>
+            <a href="mailto:ad.singh@bhu.ac.in">ad.singh@bhu.ac.in</a>
+          </div>
+
+          <div class="team-card">
+            <img src="assets/images/images1/dummy.webp" alt="Dr. P. D. Taylor">
+            <h4>Dr. P. D. Taylor</h4>
+            <p class="location">London</p>
+            <a href="mailto:p.taylor@nhm.ac.uk">p.taylor@nhm.ac.uk</a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+         <script>
+            function toggleAccordion(el) {
+               const content = el.nextElementSibling;
+               const icon = el.querySelector(".icon");
+
+               if (content.classList.contains("open")) {
+                  content.classList.remove("open");
+                  icon.textContent = "+";
+               } else {
+                  content.classList.add("open");
+                  icon.textContent = "−";
+               }
+            }
+         </script>
+
+         <?php include('includes/footer.php') ?>

@@ -3561,9 +3561,9 @@ h2.resp-accordion {
 
 .section-title {
 	text-align: center;
-	font-size: 32px;
+	font-size: 28px;
 	font-weight: 700;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	color: #ce3330;
 }
 
@@ -3619,12 +3619,6 @@ h2.resp-accordion {
   padding: 60px 0;
 }
 
-.section-title {
-  text-align: center;
-  font-size: 32px;
-  font-weight: 700;
-  margin-bottom: 40px;
-}
 
 .accordion-item {
   border: 1px solid #ddd;
@@ -3725,11 +3719,6 @@ h2.resp-accordion {
   backdrop-filter: blur(6px);
 }
 
-.section-title {
-  font-size: 28px;
-  font-weight: 700;
-  margin-bottom: 15px;
-}
 
 .address {
   color: #555;
@@ -3892,12 +3881,6 @@ h2.resp-accordion {
   padding: 20px 0px;
 }
 
-.section-title {
-  text-align: center;
-  font-size: 32px;
-  margin-bottom: 30px;
-}
-
 .accordion-box {
   margin-bottom: 25px;
 }
@@ -3936,7 +3919,7 @@ h2.resp-accordion {
 }
 
 .team-card {
-  background: #fff;
+  background: #eeeeee;
   border-radius: 14px;
   padding: 20px;
   text-align: center;
@@ -3949,10 +3932,9 @@ h2.resp-accordion {
 }
 
 .team-card img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  object-fit: cover;
+  width: 140px;
+  height: 130px;
+  border-radius: 30%;
   margin-bottom: 12px;
 }
 

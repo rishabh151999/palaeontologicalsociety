@@ -49,7 +49,7 @@
             </div>
             <section class="team-section">
                 <div class="container common-container">
-                    <h2 class="section-title">Executive Committee (2024–2026)</h2>
+                    <h2 class="section-title">Executive COUNCIL (2024–2026)</h2>
 
                     <!-- ================= OFFICE BEARERS ================= -->
                     <div class="accordion-box">
@@ -62,7 +62,7 @@
                             <div class="team-grid">
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. Rajiv Nigam">
+                                    <img src="assets/images/2024/drrajivG.jpg" alt="Dr. Rajiv Nigam">
                                     <h4>Dr. Rajiv Nigam</h4>
                                     <p class="role">President</p>
                                     <p class="location">Goa</p>
@@ -70,7 +70,7 @@
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Prof. Mukund Sharma">
+                                    <img src="assets/images/2023/drmukundsharma1.jpg" alt="Prof. Mukund Sharma">
                                     <h4>Prof. Mukund Sharma</h4>
                                     <p class="role">Vice President</p>
                                     <p class="location">Delhi</p>
@@ -78,7 +78,7 @@
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. Rajeev Saraswat">
+                                    <img src="assets/images/2024/Rajeev_Saraswat.jpg" alt="Dr. Rajeev Saraswat">
                                     <h4>Dr. Rajeev Saraswat</h4>
                                     <p class="role">Vice President</p>
                                     <p class="location">Goa</p>
@@ -86,7 +86,7 @@
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Prof. Anju Saxena">
+                                    <img src="assets/images/2024/dranju.jpg" alt="Prof. Anju Saxena">
                                     <h4>Prof. Anju Saxena</h4>
                                     <p class="role">Secretary</p>
                                     <p class="location">Lucknow</p>
@@ -94,7 +94,7 @@
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Prof. Ashutosh Kumar Singh">
+                                    <img src="assets/images/2024/Ashutosh_Singh.jpg" alt="Prof. Ashutosh Kumar Singh">
                                     <h4>Prof. Ashutosh Kumar Singh</h4>
                                     <p class="role">Joint Secretary</p>
                                     <p class="location">Delhi</p>
@@ -102,12 +102,22 @@
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. Purnima Srivastava">
+                                    <img src="assets/images/2017/01082017/purnima.jpg" alt="Dr. Purnima Srivastava">
                                     <h4>Dr. Purnima Srivastava</h4>
                                     <p class="role">Treasurer</p>
                                     <p class="location">Lucknow</p>
                                     <a href="mailto:purnimasrivastava_51@rediffmail.com">
                                         purnimasrivastava_51@rediffmail.com
+                                    </a>
+                                </div>
+
+                                <div class="team-card">
+                                    <img src="assets/images/2024/drbiswajit.jpg" alt="Dr. Biswajit Thakur, Lucknow">
+                                    <h4>Dr. Biswajit Thakur</h4>
+                                    <p class="role">Joint Secretary</p>
+                                    <p class="location">Lucknow</p>
+                                    <a href="mailto:biswajeet_thakur@bsip.res.in">
+                                        biswajeet_thakur@bsip.res.in
                                     </a>
                                 </div>
 
@@ -126,56 +136,56 @@
                             <div class="team-grid">
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Prof. Sumedh Humane">
+                                    <img src="" alt="Prof. Sumedh Humane">
                                     <h4>Prof. Sumedh Humane</h4>
                                     <p class="location">Nagpur</p>
                                     <a href="mailto:sumedh.humane@gmail.com">sumedh.humane@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. Varun Parmar">
+                                    <img src="" alt="Dr. Varun Parmar">
                                     <h4>Dr. Varun Parmar</h4>
                                     <p class="location">Jammu</p>
                                     <a href="mailto:varunparmarvp@gmail.com">varunparmarvp@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Prof. Bandana Samant">
+                                    <img src="" alt="Prof. Bandana Samant">
                                     <h4>Prof. Bandana Samant</h4>
                                     <p class="location">Bhatinda</p>
                                     <a href="mailto:bandanasamant66@gmail.com">bandanasamant66@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. Raj Kumar Singh">
+                                    <img src="" alt="Dr. Raj Kumar Singh">
                                     <h4>Dr. Raj Kumar Singh</h4>
                                     <p class="location">Bhubaneswar</p>
                                     <a href="mailto:rksingh@iitbbs.ac.in">rksingh@iitbbs.ac.in</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. Kapesa Lokho">
+                                    <img src="" alt="Dr. Kapesa Lokho">
                                     <h4>Dr. Kapesa Lokho</h4>
                                     <p class="location">Dehradun</p>
                                     <a href="mailto:kapesa@wihg.res.in">kapesa@wihg.res.in</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. Debahuti Mukherjee">
+                                    <img src="" alt="Dr. Debahuti Mukherjee">
                                     <h4>Dr. Debahuti Mukherjee</h4>
                                     <p class="location">Kolkata</p>
                                     <a href="mailto:debahuti.mukherjeegsi@gmail.com">debahuti.mukherjeegsi@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. Vivesh Vir Kapur">
+                                    <img src="" alt="Dr. Vivesh Vir Kapur">
                                     <h4>Dr. Vivesh Vir Kapur</h4>
                                     <p class="location">Lucknow</p>
                                     <a href="mailto:viveshkapur@gmail.com">viveshkapur@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="https://via.placeholder.com/300" alt="Dr. R. S. Chandel">
+                                    <img src="" alt="Dr. R. S. Chandel">
                                     <h4>Dr. R. S. Chandel</h4>
                                     <p class="location">Lucknow</p>
                                     <a href="mailto:chandelratnesh65@gmail.com">chandelratnesh65@gmail.com</a>
