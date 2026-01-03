@@ -164,9 +164,9 @@
                <li class="nav-item"><a href=""> Lectures</a>
                   <div class="sub-nav">
                      <ul class="sub-nav-group">
-                        <li><a href="inner.php">M.R. Sahni Memorial</a></li>
-                        <li><a href="inner.php">S. N. Singh Memorial</a></li>
-                        <li><a href="inner.php">R.C. Misra Memorial</a></li>
+                        <li><a href="mr-sahni-memo.php">M.R. Sahni Memorial</a></li>
+                        <li><a href="sn-singh-memo.php">S. N. Singh Memorial</a></li>
+                        <li><a href="rc-misra-memo.php">R.C. Misra Memorial</a></li>
                      </ul>
                   </div>
                </li>

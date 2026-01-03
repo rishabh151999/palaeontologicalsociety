@@ -136,59 +136,66 @@
                             <div class="team-grid">
 
                                 <div class="team-card">
-                                    <img src="" alt="Prof. Sumedh Humane">
+                                    <img src="assets/images/2024/Sumedh_Humane.jpg" alt="Prof. Sumedh Humane">
                                     <h4>Prof. Sumedh Humane</h4>
                                     <p class="location">Nagpur</p>
                                     <a href="mailto:sumedh.humane@gmail.com">sumedh.humane@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="" alt="Dr. Varun Parmar">
+                                    <img src="assets/images/2020/varunParmar.jpg" alt="Dr. Varun Parmar">
                                     <h4>Dr. Varun Parmar</h4>
                                     <p class="location">Jammu</p>
                                     <a href="mailto:varunparmarvp@gmail.com">varunparmarvp@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="" alt="Prof. Bandana Samant">
+                                    <img src="assets/images/2024/Bandana_Samant.jpg" alt="Prof. Bandana Samant">
                                     <h4>Prof. Bandana Samant</h4>
                                     <p class="location">Bhatinda</p>
                                     <a href="mailto:bandanasamant66@gmail.com">bandanasamant66@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="" alt="Dr. Raj Kumar Singh">
+                                    <img src="assets/images/2024/drraj0.jpg" alt="Dr. Raj Kumar Singh">
                                     <h4>Dr. Raj Kumar Singh</h4>
                                     <p class="location">Bhubaneswar</p>
                                     <a href="mailto:rksingh@iitbbs.ac.in">rksingh@iitbbs.ac.in</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="" alt="Dr. Kapesa Lokho">
+                                    <img src="assets/images/2020/kapesaLokho.jpg" alt="Dr. Kapesa Lokho">
                                     <h4>Dr. Kapesa Lokho</h4>
                                     <p class="location">Dehradun</p>
                                     <a href="mailto:kapesa@wihg.res.in">kapesa@wihg.res.in</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="" alt="Dr. Debahuti Mukherjee">
+                                    <img src="assets/images/2024/drdeba.jpg" alt="Dr. Debahuti Mukherjee">
                                     <h4>Dr. Debahuti Mukherjee</h4>
                                     <p class="location">Kolkata</p>
                                     <a href="mailto:debahuti.mukherjeegsi@gmail.com">debahuti.mukherjeegsi@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="" alt="Dr. Vivesh Vir Kapur">
+                                    <img src="assets/images/2024/drvivesh.jpg" alt="Dr. Vivesh Vir Kapur">
                                     <h4>Dr. Vivesh Vir Kapur</h4>
                                     <p class="location">Lucknow</p>
                                     <a href="mailto:viveshkapur@gmail.com">viveshkapur@gmail.com</a>
                                 </div>
 
                                 <div class="team-card">
-                                    <img src="" alt="Dr. R. S. Chandel">
+                                    <img src="assets/images/2022/Chandel.jpg" alt="Dr. R. S. Chandel">
                                     <h4>Dr. R. S. Chandel</h4>
                                     <p class="location">Lucknow</p>
                                     <a href="mailto:chandelratnesh65@gmail.com">chandelratnesh65@gmail.com</a>
+                                </div>
+
+                                <div class="team-card">
+                                    <img src="assets/images/2024/Bindhyachal_Pandey.jpg" alt="Dr. Bindhyachal Pandey">
+                                    <h4>Dr. Bindhyachal Pandey</h4>
+                                    <p class="location">Varanasi</p>
+                                    <a href="mailto:drbpandey@gmail.com">drbpandey@gmail.com</a>
                                 </div>
 
                             </div>

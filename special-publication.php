@@ -141,62 +141,57 @@
 
                         <!-- Book 1 -->
                         <div class="sha-book">
-                            <img src="assets/images/images1/field2010.jpg" alt="Vindhyan Basin">
+                            <img src="assets/images/images1/field2010.jpg" alt="Special Publication">
                             <div class="book-content">
-                                <h5>Field Guide – Vindhyan Basin</h5>
-                                <p>Vindhyan Basin Son Valley Area
-                                    Central India(121pages)
-                                </p>
-                                <span>(2010)</span>
+                                <h5>Special Publication: 1 </h5>
+                                <p>CENOZOIC STRATIGRAPHY AND PALYNOLOGY IN INDIA</p>
                                 <a href="#" class="btn">View Book</a>
                             </div>
                         </div>
 
                         <!-- Book 2 -->
                         <div class="sha-book">
-                            <img src="assets/images/images1/field2002.jpg" alt="International Field Workshop">
+                            <img src="assets/images/images1/field2002.jpg" alt="Special Publication">
                             <div class="book-content">
-                                <h5>International Field Workshop</h5>
-                                <p>International Field Workshop on
-                                    The Vindhyan Basin, Central India
-                                </p>
-                                <span>(3rd to 11th December, 2002)</span>
+                                <h5>Special Publication: 2 </h5>
+                                <p>HIMALAYAN OROGEN FORELAND INTERACTION</p>
+                                <span>(A.R. Bhattacharya, K. K. Agarwal)</span>
                                 <a href="#" class="btn">View Book</a>
                             </div>
                         </div>
 
                         <!-- Book 3 -->
                         <div class="sha-book">
-                            <img src="assets/images/images1/field1999.jpg" alt="Lameta & Bagh Beds">
+                            <img src="assets/images/images1/field1999.jpg" alt="Special Publication">
                             <div class="book-content">
-                                <h5>Lameta & Bagh Beds</h5>
-                                <p>Lameta & Bagh Beds, <br>Central India</p>
-                                <span>(1999)</span>
+                                <h5>Special Publication: 3</h5>
+                                <p>The Flight: Boris S.Sokolov</p>
+                                <span>(Patricia Arlene Vickers-Rich) with Boris S. Sokolov</span>
                                 <a href="#" class="btn">View Book</a>
                             </div>
                         </div>
 
                         <!-- Book 4 -->
                         <div class="sha-book">
-                            <img src="assets/images/images1/field1994.jpg" alt="Vindhyan Basin Son Valley">
+                            <img src="assets/images/images1/field1994.jpg" alt="Special Publication">
                             <div class="book-content">
-                                <h5>Terminal Proterozoic</h5>
-                                <p>Terminal Proterozoic & Lower
-                                    Cambrian in India, Dehradun,
-                                </p>
-                                <span>(January 3 to 8, 1994)</span>
+                                <h5>Special Publication:4 </h5>
+                                <p> Himalayan Fossil Fraud</p>
+                                <span>(By S.K. Shah)
+                                    Review by Prof. D. M.Banerjee (FNA)</span>
                                 <a href="#" class="btn">View Book</a>
                             </div>
                         </div>
 
-                        <!-- Coming Soon -->
-                        <div class="sha-book coming-soon">
-                            <img src="assets/images/images1/FieldGuide12.jpg" alt="Coming Soon">
+                        <div class="sha-book">
+                            <img src="assets/images/images1/FieldGuide12.jpg" alt="Special Publication">
                             <div class="book-content">
-                                <h5>Upcoming Field Guide</h5>
-                                <p>Vindhyan Basin Son Valley AreaCentral India</p>
-                                <span>(Coming soon)</span>
-                                <button class="btn disabled">Coming Soon</button>
+                                <h5>Special Publication: 5 (ISBN No.: 978-81-926587-0-4)
+                                </h5>
+                                <p>The Kachchh Rift Basin of western India: Jurassic lithostratigraphy revisited</p>
+                                <span>(Franz T. Fürsich, Matthias Alberti, & Dhirendra K. Pandey)
+                                    Published: December 2023</span>
+                                <a href="#" class="btn">View Book</a>
                             </div>
                         </div>
 
